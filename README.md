@@ -1,0 +1,1 @@
+Welcome to the Shopping List App! This application, developed using Kotlin and Jetpack Compose, provides a user-friendly platform for managing your shopping items. Whether you want to add new items, specify quantities, or edit details, this app has you covered.
